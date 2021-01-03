@@ -1,0 +1,23 @@
+{
+  "name": "me-blur",
+  "version": "1.0.1",
+  "description": "blur an element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/night5415/me-blur.git"
+  },
+  "keywords": [
+    "css",
+    "blur"
+  ],
+  "author": "Mike Meloy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/night5415/me-blur/issues"
+  },
+  "homepage": "https://github.com/night5415/me-blur#readme"
+}
